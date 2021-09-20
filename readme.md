@@ -1,3 +1,9 @@
+<p align="center"> This application uses Laravel for the backend and uses  React on the front-end to call  the data from the database </p>
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
